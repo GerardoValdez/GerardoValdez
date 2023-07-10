@@ -1,11 +1,23 @@
-Hola! 👋 Mi nombre es Valdez Gerardo.
 
-🤓 Actualmente estudio la tecnicatura universitaria en programación. Además me encuentro en capacitación del programa ONE Oracle Next Education en colaboración con Alura Latam. Poseo conocimientos solidos en  C# .Net, Java, Spring Boot, Desarrollo de APIs, SQL, HTML, CSSS y JS. 
+ ¡Hola!👋 Soy Gerardo Valdez,
 
-📚 Estudié Administración de Empresas en la universidad, por lo que desarrollé habiliades de análisis, enfoque y comunicación asertiva entre otras.
+ 💻 Soy estudiante de la Tecnicatura Universitaria en Programación. Mi pasión por 
+ la tecnología me ha llevado a adquirir un sólido conocimiento en C# .Net, Java, Spring Boot, 
+ Desarrollo de APIs, SQL, HTML, CSSS y JS. Puedes encontrar algunos de mis proyectos en mi GitHub: 
+ https://github.com/GerardoValdez.
 
-🌱 Soy una persona proactiva y me gusta resolver problemas de forma eficiente. Aprender es parte de mi día a día, al igual que observar mi entorno y pensar en como influir en él de forma positiva.
+⚽ Además de mi interés en la programación, soy una persona que disfruta aprender día a día y 
+ mantenerse activo. Fuera del ámbito tecnológico, me encanta hacer deporte, sobretodo jugar al 
+ fútbol.
+🛫 Otro de mis hobbies es viajar y descubrir nuevos lugares con buenos paisajes, nuevas culturas 
+ y rica comida. 
 
-🔭 Busco oportunidades el área de Tecnología de la Información, donde pueda desarrollar mis conocimientos técnicos, crecer junto a la organización y mis compañeros.
+🤓 Actualmente, busco oportunidades en el área de Tecnología de la Información, donde pueda aplicar 
+ y desarrollar mis conocimientos técnicos, crecer junto a la empresa y colaborar con mis compañeros 
+ de trabajo. Estoy emocionado por formar parte de un equipo dinámico y contribuir al éxito de 
+ proyectos innovadores.
+
+📨 Si estás interesado en conectar conmigo o conocer más sobre mi, ¡no dudes en contactarme! Estoy 
+ abierto a oportunidades y dispuesto a explorar nuevas posibilidades en el campo de la tecnología.
 
 📫 Puedes contactarme en https://www.linkedin.com/in/gerardo-valdez/
