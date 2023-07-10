@@ -3,8 +3,7 @@
 
  💻 Soy estudiante de la Tecnicatura Universitaria en Programación. Mi pasión por 
  la tecnología me ha llevado a adquirir un sólido conocimiento en C# .Net, Java, Spring Boot, 
- Desarrollo de APIs, SQL, HTML, CSSS y JS. Puedes encontrar algunos de mis proyectos en mi GitHub: 
- https://github.com/GerardoValdez.
+ Desarrollo de APIs, SQL, HTML, CSSS y JS. Te invito a explorar mis repositorios!
 
 ⚽ Además de mi interés en la programación, soy una persona que disfruta aprender día a día y 
  mantenerse activo. Fuera del ámbito tecnológico, me encanta hacer deporte, sobretodo jugar al 
